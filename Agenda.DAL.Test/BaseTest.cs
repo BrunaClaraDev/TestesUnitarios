@@ -1,6 +1,5 @@
 ﻿using NUnit.Framework;
 using System;
-using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
 using System.IO;
@@ -14,7 +13,7 @@ namespace Agenda.DAL.Test
         private string _con;
         private string _catalogTest;
 
-        public BaseTest() 
+        public BaseTest()
         {
             _script = @"DbAgendaTest_Create.sql";
             _con = ConfigurationManager.ConnectionStrings["conSetUpTest"].ConnectionString;
@@ -35,7 +34,7 @@ namespace Agenda.DAL.Test
 
         private void CreateDbTest()
         {
-            using (SqlConnection con = new SqlConnection( _con))
+            using (SqlConnection con = new SqlConnection(_con))
             {
                 con.Open();
                 var scriptSql = File
@@ -53,9 +52,9 @@ namespace Agenda.DAL.Test
 
         private void ExecuteScriptSql(SqlConnection con, string scriptSql)
         {
-            using(SqlCommand cmd = con.CreateCommand()) 
+            using (SqlCommand cmd = con.CreateCommand())
             {
-                foreach (string sql in scriptSql.Split('|')) 
+                foreach (string sql in scriptSql.Split('|'))
                 {
                     cmd.CommandText = sql;
                     try
@@ -73,10 +72,10 @@ namespace Agenda.DAL.Test
 
         private void DeleteDbTest()
         {
-            using(SqlConnection con = new SqlConnection(_con))
+            using (SqlConnection con = new SqlConnection(_con))
             {
                 con.Open();
-                using(SqlCommand cmd = con.CreateCommand())
+                using (SqlCommand cmd = con.CreateCommand())
                 {
                     cmd.CommandText = $@"USE [master];
                                         DECLARE @kill varchar(8000) = '';

@@ -10,7 +10,8 @@ namespace Agenda.DAL.Test
     public class ContatosTest : BaseTest
     {
         Contatos _contatos;
-        [SetUp] public void SetUp() 
+        [SetUp]
+        public void SetUp()
         {
             _contatos = new Contatos();
         }
