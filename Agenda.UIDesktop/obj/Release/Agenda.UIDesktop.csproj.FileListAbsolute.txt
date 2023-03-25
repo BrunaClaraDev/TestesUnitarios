@@ -1,0 +1,11 @@
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\bin\Release\Agenda.UIDesktop.exe.config
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\bin\Release\Agenda.UIDesktop.exe
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\bin\Release\Agenda.UIDesktop.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.Form1.resources
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.Properties.Resources.resources
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.csproj.GenerateResource.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.exe
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Release\Agenda.UIDesktop.pdb

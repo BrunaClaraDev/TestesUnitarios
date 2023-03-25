@@ -1,0 +1,11 @@
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe.config
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Properties.Resources.resources
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.GenerateResource.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.exe
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Form1.resources
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.SuggestedBindingRedirects.cache

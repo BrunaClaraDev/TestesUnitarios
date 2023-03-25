@@ -1,0 +1,11 @@
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\bin\Debug\Agenda.DAL.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\bin\Debug\Agenda.DAL.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\bin\Debug\Agenda.Domain.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\bin\Debug\Agenda.Domain.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.CopyComplete
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\bin\Debug\Dapper.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.DAL\bin\Debug\Dapper.xml

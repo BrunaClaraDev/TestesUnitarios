@@ -1,0 +1,6 @@
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Domain\bin\Debug\Agenda.Domain.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Domain\bin\Debug\Agenda.Domain.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.pdb
