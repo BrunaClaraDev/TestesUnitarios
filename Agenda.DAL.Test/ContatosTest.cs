@@ -1,30 +1,27 @@
 ﻿using Agenda.Domain;
+using AutoFixture;
 using NUnit.Framework;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-
 namespace Agenda.DAL.Test
 {
     [TestFixture]
     public class ContatosTest : BaseTest
     {
         Contatos _contatos;
+        Fixture _fixture;
         [SetUp]
         public void SetUp()
         {
             _contatos = new Contatos();
+            _fixture = new Fixture();
         }
 
         [Test]
         public void AdicionarContatoTest()
         {
             //Monta
-            Contato contato = new Contato()
-            {
-                Id = Guid.NewGuid(),
-                Nome = "Bruna"
-            };
+            Contato contato = _fixture.Create<Contato>();
             //Executa
             _contatos.Adicionar(contato);
             //Verifica
@@ -35,11 +32,7 @@ namespace Agenda.DAL.Test
         public void ObterContatoTest()
         {
             //Monta
-            Contato contato = new Contato()
-            {
-                Id = Guid.NewGuid(),
-                Nome = "Clara"
-            };
+            Contato contato = _fixture.Create<Contato>();
             //Executa
             _contatos.Adicionar(contato);
             Contato contatoResultado = _contatos.Obter(contato.Id);
@@ -52,8 +45,8 @@ namespace Agenda.DAL.Test
         public void ObterTodosContatosTest()
         {
             //Monta
-            Contato contato1 = new Contato() { Id = Guid.NewGuid(), Nome = "Clara" };
-            Contato contato2 = new Contato() { Id = Guid.NewGuid(), Nome = "João" };
+            Contato contato1 = _fixture.Create<Contato>(); 
+            Contato contato2 = _fixture.Create<Contato>();
             //Executa
             _contatos.Adicionar(contato1);
             _contatos.Adicionar(contato2);
@@ -72,6 +65,7 @@ namespace Agenda.DAL.Test
         public void TearDown()
         {
             _contatos = null;
+            _fixture = null;
         }
     }
 }
