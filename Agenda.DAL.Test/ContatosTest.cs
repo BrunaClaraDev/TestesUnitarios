@@ -1,8 +1,6 @@
 ﻿using Agenda.Domain;
 using AutoFixture;
 using NUnit.Framework;
-using System.Collections.Generic;
-using System.Linq;
 namespace Agenda.DAL.Test
 {
     [TestFixture]

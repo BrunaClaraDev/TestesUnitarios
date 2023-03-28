@@ -1,0 +1,13 @@
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Agenda.Repos.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Agenda.Repos.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Agenda.DAL.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Agenda.Domain.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Dapper.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Agenda.DAL.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Agenda.Domain.pdb
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\bin\Debug\Dapper.xml
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.CopyComplete
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.dll
+C:\Users\SQUADRA\Desktop\Projetos Estudo\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.pdb
